@@ -1,4 +1,4 @@
-1. dataset.zip use for RTDETR model pretrain
-2. license_plate_detector.pt is model to detect license plate pretrain from Yolo8
-3. you can load vehicles.mp4 at  https://drive.google.com/file/d/1W-B3M0Js9FXcycaYPfT5cmuhHQLPuZXV/view?usp=sharing
-4. you can load sample.mp4 at  https://drive.google.com/file/d/1-3J6AnzYOjoNPUzLacKh4X2F3VgmbCov/view?usp=sharing
+1. dataset.zip is used for pretraining the RT-DETR model.
+2. license_plate_detector.pt is a pretrained YOLOv8 model for license plate detection.
+3. you can load vehicles.mp4 from  https://drive.google.com/file/d/1W-B3M0Js9FXcycaYPfT5cmuhHQLPuZXV/view?usp=sharing
+4. you can load sample.mp4 from https://drive.google.com/file/d/1-3J6AnzYOjoNPUzLacKh4X2F3VgmbCov/view?usp=sharing
